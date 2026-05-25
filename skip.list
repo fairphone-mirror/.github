@@ -52,3 +52,7 @@ GraphQL: Name cannot be more than 100 characters (createRepository)
 /platform_prebuilts_misc
 /platform_prebuilts_jdk_jdk11
 /platform_external_deqp
+/platform_prebuilts_clang_host_darwin-x86
+/platform_prebuilts_sdk
+/platform_packages_modules_ArtPrebuilt
+/platform_cts
